@@ -1,5 +1,5 @@
 # CQRS With Event Sourcing
-A simple, unambitious Microservices Architecture, CQRS Pattern with Event Sourcing, and DDD implementation in .NET
+A simple, unambitious Microservices Architecture, CQRS Pattern with Event Sourcing, and Domain-Driven Design implementation in .NET
 
 # Getting Started:
 
