@@ -28,7 +28,6 @@ EndProject
 Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "Solution Items", "Solution Items", "{B4609AA5-F583-4EEA-B847-F3062A6C59C4}"
 	ProjectSection(SolutionItems) = preProject
 		SolutionItems\docker-compose.yml = SolutionItems\docker-compose.yml
-		SolutionItems\Notes.docx = SolutionItems\Notes.docx
 		SolutionItems\Postman_collection = SolutionItems\Postman_collection
 	EndProjectSection
 EndProject
